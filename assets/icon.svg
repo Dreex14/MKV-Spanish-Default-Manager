@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 12 232 232">
+  <!-- MKV Spanish Default Manager: lista de pistas de subtítulos con la predeterminada elegida (amarillo).
+       Versión para 40 px o más (icon-small.svg es la versión simplificada para 16–32 px). -->
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2b2e"/>
+      <stop offset="1" stop-color="#0e0e10"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="232" height="232" rx="54" fill="url(#tile)"/>
+  <rect x="13.5" y="13.5" width="229" height="229" rx="52.5" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="3"/>
+  <!-- Pista sin elegir -->
+  <circle cx="72" cy="78" r="13" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="7"/>
+  <rect x="100" y="66" width="104" height="24" rx="12" fill="#ffffff" fill-opacity=".38"/>
+  <!-- Pista predeterminada -->
+  <circle cx="72" cy="128" r="17" fill="#ffd24a"/>
+  <circle cx="72" cy="128" r="7" fill="#141416"/>
+  <rect x="100" y="114" width="104" height="28" rx="14" fill="#ffd24a"/>
+  <!-- Pista sin elegir -->
+  <circle cx="72" cy="178" r="13" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="7"/>
+  <rect x="100" y="166" width="74" height="24" rx="12" fill="#ffffff" fill-opacity=".38"/>
+</svg>
